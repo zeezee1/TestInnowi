@@ -1,0 +1,439 @@
+<resources>
+
+    <dimen name="button_height">54dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="tip_dimen_regular">13dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="circle_width">30dp</dimen>
+    <dimen name="circle_text_size">13dp</dimen>
+    <dimen name="marging_left">20dp</dimen>
+    <dimen name="view_hieght">1dp</dimen>
+    <dimen name="view_margin">10dp</dimen>
+    <dimen name="faq_search_layout_height">40dp</dimen>
+    <dimen name="faq_text_size">15sp</dimen>
+    <dimen name="margin_five_dp">5dp</dimen>
+    <dimen name="margin_ten_dp">10dp</dimen>
+    <dimen name="height_yes_no">50dp</dimen>
+    <dimen name="fragment_margin">18dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_fourty">20dp</dimen>
+    <dimen name="large_text">30sp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="text_18sp">18sp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+    <dimen name="text_16sp">16sp</dimen>
+    <dimen name="text_22sp">22sp</dimen>
+    <dimen name="text_13sp">13sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_smallsize">13sp</dimen>
+    <dimen name="fully_rounded_green_button_radius">16dp</dimen>
+
+    <dimen name="slv_item_height">66dip</dimen>
+    <dimen name="slv_item_height2">90dip</dimen>
+
+    <dimen name="slv_item_bg_btn_width">48dip</dimen>
+    <dimen name="slv_item_bg_btn2_width">60dip</dimen>
+    <dimen name="slv_item_bg_btn_width_img">100dip</dimen>
+
+    <dimen name="viewpager_margin_fix">32dp</dimen>
+    <dimen name="viewpager_margin">-64dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+
+    <!-- PickerUI items dimens-->
+    <dimen name="height_normal_item_pickerui">40dp</dimen>
+    <dimen name="textsize_center_pickerui_item">25dp</dimen>
+    <dimen name="textsize_near_center_pickerui_item">17dp</dimen>
+    <dimen name="textsize_far_center_pickerui_item">15dp</dimen>
+    <dimen name="textsize_small_pickerui_item">11dp</dimen>
+
+    <!-- PickerUI lines dimens -->
+    <dimen name="margin_top_line_top_pickerui">80dp</dimen>
+    <dimen name="margin_top_line_bottom_pickerui">120dp</dimen>
+    <dimen name="height_lines_center_pickerui">1dp</dimen>
+
+    <!-- PickerUI panel dimens -->
+    <dimen name="height_hidden_panel_pickerui">200dp</dimen>
+
+
+    <!-- Substitution activity related -->
+
+
+    <dimen name="default_text_size">13sp</dimen>
+    <dimen name="secondary_text_size">13sp</dimen>
+    <dimen name="small_text_size">10sp</dimen>
+    <dimen name="primary_text_size">16sp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="decimal_text_size">8sp</dimen>
+
+
+    <dimen name="action_bar_padding">10dp</dimen>
+    <dimen name="action_bar_horizontal_padding">15dp</dimen>
+    <dimen name="action_bar_image_size">30dp</dimen>
+    <dimen name="action_bar_icon_padding">4dp</dimen>
+
+    <dimen name="subst_frag_title_text_size">16sp</dimen>
+    <dimen name="subst_frag_shadow_view_height">8dp</dimen>
+    <dimen name="subst_frag_title_margin_top">8dp</dimen>
+    <dimen name="subst_frag_subtitle_margin_bottom">4dp</dimen>
+    <dimen name="subst_frag_secondary_text_padding">4dp</dimen>
+    <dimen name="subst_frag_btn_margin">4dp</dimen>
+    <dimen name="subst_summary_frag_grand_total_text_size">16sp</dimen>
+
+    <dimen name="subst_selection_frag_row_img_size">120dp</dimen>
+    <dimen name="subst_selection_frag_row_padding_and_margin_size">8dp</dimen>
+    <dimen name="subst_selection_frag_row_primary_text_size">16sp</dimen>
+    <dimen name="subst_act_btn_text_size">16sp</dimen>
+    <dimen name="subst_act_ok_btn_text_size">18sp</dimen>
+    <dimen name="subst_selection_row_substitutions_padding">8dp</dimen>
+    <dimen name="subst_selection_row_substitutions_size_padding">2dp</dimen>
+    <dimen name="subst_selection_row_substitutions_descriptive_text_size">14sp</dimen>
+    <dimen name="subst_selection_row_substitutions_green_text_size">18sp</dimen>
+    <dimen name="subst_selection_row_substitutions_img_width">164dp</dimen>
+    <dimen name="subst_selection_row_substitutions_img_height">140dp</dimen>
+
+    <dimen name="subst_summary_row_img_size">90dp</dimen>
+    <dimen name="subst_summary_row_img_margin">8dp</dimen>
+    <dimen name="subst_summary_row_plus_minus_text_size">18sp</dimen>
+    <dimen name="subst_summary_row_plus_minus_margin">3dp</dimen>
+    <dimen name="subst_summary_row_primary_text_size">14sp</dimen>
+    <dimen name="subst_summary_row_layout_padding">8dp</dimen>
+    <dimen name="subst_summary_row_not_available_text">17sp</dimen>
+
+    <dimen name="pending_fragment_btn_margin">8dp</dimen>
+    <dimen name="pending_fragment_header_padding">10dp</dimen>
+    <dimen name="pending_fragment_header_internal_margin">10dp</dimen>
+    <dimen name="pending_fragment_header_external_margin">20dp</dimen>
+    <dimen name="pending_fragment_header_vertical_margin">5dp</dimen>
+    <dimen name="pending_fragment_header_icon_size">20dp</dimen>
+
+
+    <!-- NEW UI DIMENS-->
+    <dimen name="logo_height">23dp</dimen>
+    <dimen name="logo_width">113dp</dimen>
+    <dimen name="logo_top_margin_main_act">53dp</dimen>
+    <dimen name="login_text_size_main_act">11sp</dimen>
+    <dimen name="signup_text_margin_bottom_main_act">11dp</dimen>
+    <dimen name="try_now_btn_vertical_margin_main_act">8dp</dimen>
+    <dimen name="try_now_btn_text_size_main_act">13sp</dimen>
+    <dimen name="slogan_text_size_main_act">24sp</dimen>
+    <dimen name="activity_title_size">13sp</dimen>
+    <dimen name="try_now_btn_horizontal_margin_main_act">8dp</dimen>
+    <dimen name="try_now_btn_height_main_act">42dp</dimen>
+    <dimen name="slogan_margin_bottom_main_act">30dp</dimen>
+    <dimen name="groceries_to_your_door_tv_main_act">13sp</dimen>
+    <dimen name="action_bar_top_padding">25dp</dimen>
+    <dimen name="back_btn_size">49dp</dimen>
+    <dimen name="back_btn_padding">10dp</dimen>
+    <dimen name="logo_margin_top_auth_act">23dp</dimen>
+    <dimen name="email_tv_margin_top_auth_frags">57dp</dimen>
+    <dimen name="subtitle_tv_size_auth_frags">12sp</dimen>
+    <dimen name="password_tv_margin_top_auth_frags">16dp</dimen>
+    <dimen name="auth_et_horizontal_margins">28dp</dimen>
+    <dimen name="auth_et_top_margin">2dp</dimen>
+    <dimen name="auth_et_padding">12dp</dimen>
+    <dimen name="auth_et_text_size">18sp</dimen>
+    <dimen name="btn_text_size_auth_frags">13sp</dimen>
+    <dimen name="btn_padding_auth_frags">8dp</dimen>
+    <dimen name="auth_btn_margin_top">20dp</dimen>
+    <dimen name="screen_change_tv_margin_top_auth_frags">18dp</dimen>
+    <dimen name="primary_text_size_auth_frags">13sp</dimen>
+    <dimen name="forgot_password_tv_size_login_frag">12sp</dimen>
+    <dimen name="forgot_password_tv_margin_top_login_frag">4dp</dimen>
+    <dimen name="info_text_margin_top_forgot_pass_frag">38dp</dimen>
+    <dimen name="info_text_margin_top_pass_was_reset_frag">22dp</dimen>
+    <dimen name="email_tv_margin_top_forgot_pass_frag">16dp</dimen>
+    <dimen name="info_tv_width_forgot_pass_frag">157dp</dimen>
+    <dimen name="iv_size_pass_was_reset_frag">74dp</dimen>
+    <dimen name="iv_margin_top_pass_was_reset_frag">138dp</dimen>
+    <dimen name="img_size_action_bar">49dp</dimen>
+    <dimen name="shop_img_hor_padding_action_bar">8dp</dimen>
+    <dimen name="shop_img_ver_padding_action_bar">9dp</dimen>
+    <dimen name="plus_img_padding_action_bar">17dp</dimen>
+    <dimen name="basket_img_padding_action_bar">8dp</dimen>
+    <dimen name="basket_img_red_circle_width_act_bar">13dp</dimen>
+    <dimen name="basket_img_red_circle_height_act_bar">12dp</dimen>
+    <dimen name="basket_img_red_circle_margins_act_bar">4dp</dimen>
+    <dimen name="basket_img_count_text_size_act_bar">6sp</dimen>
+    <dimen name="bottom_nav_view_shadow_height">1dp</dimen>
+    <dimen name="cant_find_location_tv_width">230dp</dimen>
+    <dimen name="cant_find_location_tv_size_expanded">20sp</dimen>
+    <dimen name="cant_find_location_tv_size_collapsed">18sp</dimen>
+    <dimen name="retailer_pager_height_expanded">276dp</dimen>
+    <dimen name="retailer_pager_height_collapsed">176dp</dimen>
+    <dimen name="retailer_info_title_tv">9sp</dimen>
+    <dimen name="retailer_info_values_tv">10sp</dimen>
+    <dimen name="delivery_type_retailer_item_tv">10sp</dimen>
+    <dimen name="store_time_retailer_item_tv">10sp</dimen>
+    <dimen name="store_time_icon_retailer_item_iv">13dp</dimen>
+
+    <!-- My Basket -->
+    <dimen name="tv_total_price_title_size">14sp</dimen>
+    <dimen name="tv_total_quantity_title_size">14sp</dimen>
+    <dimen name="tv_total_price_size">17sp</dimen>
+    <dimen name="tv_total_quantity_size">14sp</dimen>
+    <dimen name="img_product_height">75dp</dimen>
+    <dimen name="img_product_width">75dp</dimen>
+    <dimen name="tv_productName_size">14sp</dimen>
+    <dimen name="tv_unit_size">13sp</dimen>
+    <dimen name="tv_unit_price_size">14sp</dimen>
+    <dimen name="tv_quantity_title_size">13sp</dimen>
+    <dimen name="tv_quantity_size">14sp</dimen>
+    <dimen name="tv_total_title_size">13sp</dimen>
+    <dimen name="tv_total_size">14sp</dimen>
+    <dimen name="tv_qty_size">14sp</dimen>
+    <dimen name="basket_view_count_width">120dp</dimen>
+    <dimen name="basket_view_count_padding_left">10dp</dimen>
+    <dimen name="basket_view_count_padding_right">10dp</dimen>
+    <dimen name="basket_view_add_item_height">15dp</dimen>
+    <dimen name="basket_view_add_item_width">15dp</dimen>
+
+    <dimen name="counter_padding">30sp</dimen>
+    <dimen name="act_title">13sp</dimen>
+    <dimen name="tool_bar_height_home_act">33dp</dimen>
+    <dimen name="retailer_name_arrow_size">8dp</dimen>
+    <dimen name="bottom_nav_view_height">45dp</dimen>
+    <dimen name="act_subtitle">10sp</dimen>
+    <dimen name="basket_items_tv_size">13sp</dimen>
+    <dimen name="card_view_margin_top_retailer_pager_frag">5dp</dimen>
+    <dimen name="card_view_width_retailer_pager_frag">124dp</dimen>
+    <dimen name="card_view_height_retailer_pager_frag">40dp</dimen>
+    <dimen name="retailer_name_margin_top_retailer_pager_frag">6dp</dimen>
+    <dimen name="retailer_name_text_size_retailer_pager_frag">12sp</dimen>
+    <dimen name="retailer_status_layout_retailer_pager_frag">5dp</dimen>
+    <dimen name="retailer_status_text_size_retailer_pager_frag">7sp</dimen>
+    <dimen name="status_icon_size_retailer_pager_frag">15dp</dimen>
+    <dimen name="retailer_info_layout_margin_top_retailer_pager_frag">12dp</dimen>
+    <dimen name="search_icon_width">13dp</dimen>
+    <dimen name="search_icon_height">14dp</dimen>
+    <dimen name="search_et_size">12sp</dimen>
+    <dimen name="search_view_horizontal_padding">8dp</dimen>
+    <dimen name="search_view_vertical_padding">10dp</dimen>
+
+    <!--category items-->
+    <dimen name="cat_item_margin_bottom">7dp</dimen>
+    <dimen name="cat_image_width">108dp</dimen>
+    <dimen name="cat_image_height">54dp</dimen>
+    <dimen name="cat_image_margin_right">6dp</dimen>
+    <dimen name="cat_title_width">156dp</dimen>
+    <dimen name="cat_title_margin_left">10dp</dimen>
+    <dimen name="cat_title_margin_top">5dp</dimen>
+    <dimen name="cat_title_text_size">12sp</dimen>
+    <dimen name="cat_subtitle_text_size">9sp</dimen>
+
+
+    <!--HomeStoreFragment-->
+    <dimen name="retailer_pager_arrow_width">10dp</dimen>
+    <dimen name="retailer_pager_arrow_height">16dp</dimen>
+    <dimen name="retailer_pager_arrow_horizontal_margin">19dp</dimen>
+    <dimen name="retailer_pager_arrow_top_margin">50dp</dimen>
+    <dimen name="retailer_pager_strip_margin_top">16dp</dimen>
+    <dimen name="retailer_pager_strip_height">4dp</dimen>
+    <dimen name="retailer_pager_strip_padding">6dp</dimen>
+    <dimen name="retailer_pager_strip_item_width">3dp</dimen>
+    <dimen name="retailer_pager_strip_item_height">2dp</dimen>
+    <dimen name="retailer_pager_retailer_info_pad_left">16dp</dimen>
+
+    <!--Product Adapter Item-->
+    <dimen name="item_subtract_padding">15dp</dimen>
+    <dimen name="item_add_padding">13dp</dimen>
+    <dimen name="item_height_brand_product">180dp</dimen>
+    <dimen name="item_image_height">82dp</dimen>
+    <dimen name="item_horizontal_margin_brand_product">2dp</dimen>
+    <dimen name="item_margin_top_brand_product">6dp</dimen>
+    <dimen name="item_elevation_brand_product">3dp</dimen>
+    <dimen name="item_footer_height_brand_product">24dp</dimen>
+    <dimen name="item_container_height_brand_product">152dp</dimen>
+    <dimen name="item_text_left_margin_brand_product">10dp</dimen>
+    <dimen name="item_product_size_text_brand_product">8sp</dimen>
+    <dimen name="item_product_name_text_brand_product">8sp</dimen>
+    <dimen name="item_name_margin_right_brand_product">4dp</dimen>
+    <dimen name="item_name_margin_top_brand_product">2dp</dimen>
+    <dimen name="item_add_to_cart_text_brand_product">7sp</dimen>
+    <dimen name="plus_minus_image_size_brand_product">9dp</dimen>
+    <dimen name="quantity_text_size_brand_product">9sp</dimen>
+    <dimen name="price_margin_bottom_brand_product">4dp</dimen>
+    <dimen name="image_width_child_brand_product">87dp</dimen>
+    <dimen name="item_width_child_brand_product">120dp</dimen>
+    <dimen name="internal_margins_child_brand_product">2dp</dimen>
+    <dimen name="external_left_margin_child_brand_product">13dp</dimen>
+
+    <!--RvBrandsProductAdapter-->
+    <dimen name="child_rv_margin_top">5dp</dimen>
+    <dimen name="right_arrow_size_sub_brand_prod">10dp</dimen>
+    <dimen name="text_size_sub_brand_prod">10sp</dimen>
+    <dimen name="item_margin_top_sub_brand_product">12dp</dimen>
+    <dimen name="count_margin_right_sub_brand_product">4dp</dimen>
+    <dimen name="padding_top_sub_category_brand">8dp</dimen>
+
+
+    <!--SubCategoryBrandPagerFragment-->
+    <dimen name="padding_top_pager_sub_cat_brand">7dp</dimen>
+    <dimen name="search_view_margin">5dp</dimen>
+    <dimen name="request_iv_size">25dp</dimen>
+    <dimen name="request_iv_margin_right">8dp</dimen>
+    <dimen name="pager_strip_height_pager_sub_cat_brand">33dp</dimen>
+    <dimen name="pager_strip_margin_top__pager_sub_cat_brand">10dp</dimen>
+    <dimen name="pager_strip_divider_padding_pager_sub_cat_brand">10dp</dimen>
+    <dimen name="pager_strip_indicator_height_pager_sub_cat_brand">2dp</dimen>
+    <dimen name="pager_strip_text_size_pager_sub_cat_brand">11sp</dimen>
+
+
+    <!--AllProductsFragment-->
+    <dimen name="container_padding_all_prod_frag">7dp</dimen>
+    <dimen name="brand_image_height_all_prod_frag">110dp</dimen>
+    <dimen name="brand_image_margin_top_all_prod_frag">9dp</dimen>
+    <dimen name="categories_tv_size_all_prod_frag">12sp</dimen>
+    <dimen name="back_iv_height_all_prod_frag">12dp</dimen>
+    <dimen name="back_iv_margin_all_prod_frag">10dp</dimen>
+    <dimen name="categories_tv_margin_left_all_prod_frag">4dp</dimen>
+    <dimen name="recycler_padding_left_all_prod_frag">8dp</dimen>
+
+
+    <!--HomeStoreAdapter-->
+    <dimen name="item_margin_bottom_home_store_item">7dp</dimen>
+    <dimen name="home_store_item_margin_start_end">6dp</dimen>
+    <dimen name="image_margin_top_home_store_item">16dp</dimen>
+    <dimen name="image_width_home_store_item">132dp</dimen>
+    <dimen name="image_height_home_store_item">45dp</dimen>
+    <dimen name="title_margin_horizontal_home_store_item">11dp</dimen>
+    <dimen name="title_margin_top_home_store_item">11dp</dimen>
+    <dimen name="title_size_home_store_item">12sp</dimen>
+    <dimen name="working_hours_margin_right_home_store_item">8dp</dimen>
+    <dimen name="store_status_text_size_home_store_item">10sp</dimen>
+    <dimen name="store_status_margin_top_home_store_item">6dp</dimen>
+    <dimen name="status_icon_margin_home_store">8dp</dimen>
+    <dimen name="store_info_margin_top_home_store">14dp</dimen>
+    <dimen name="min_ord_iv_width_ret_info">14dp</dimen>
+    <dimen name="min_ord_iv_height_ret_info">11dp</dimen>
+    <dimen name="del_hour_iv_margin_left">48dp</dimen>
+    <dimen name="title_left_margin_ret_info">7dp</dimen>
+    <dimen name="del_fee_iv_size_ret_info">15dp</dimen>
+    <dimen name="second_line_margin_top_ret_info">10dp</dimen>
+    <dimen name="paym_meth_iv_width_ret_info">13dp</dimen>
+    <dimen name="paym_meth_iv_height_ret_info">11dp</dimen>
+    <dimen name="trending_search_text_size_search_frag">12sp</dimen>
+    <dimen name="trending_search_padding_bottom_search_frag">9dp</dimen>
+    <dimen name="trending_search_padding_top_search_frag">20dp</dimen>
+    <dimen name="item_height_trending_search">35dp</dimen>
+    <dimen name="item_text_size_trending_search">11sp</dimen>
+
+    <dimen name="view_padding_left">11dp</dimen>
+    <dimen name="view_padding_right">11dp</dimen>
+    <dimen name="view_padding_top">3dp</dimen>
+    <dimen name="view_padding_bottom">3dp</dimen>
+    <dimen name="minu_btn_padding">8dp</dimen>
+    <dimen name="basket_view_subtract_btn_pad">8dp</dimen>
+    <dimen name="basket_view_add_btn_pad">12dp</dimen>
+    <dimen name="basket_view_padding">10dp</dimen>
+    <dimen name="basket_view_padding_right">5dp</dimen>
+
+    <!--ForgotPassword-->
+    <dimen name="tv_margin_left">20dp</dimen>
+
+    <!--Choose Location-->
+    <dimen name="location_tv_margin_left">10dp</dimen>
+    <dimen name="location_tv_margin_right">10dp</dimen>
+
+    <!-- Order Summary -->
+    <dimen name="order_summary_view_padding">16dp</dimen>
+    <dimen name="payment_padding_left">10dp</dimen>
+    <dimen name="payment_padding_right">10dp</dimen>
+    <dimen name="payment_padding_top">13dp</dimen>
+    <dimen name="payment_padding_bottom">13dp</dimen>
+    <dimen name="tv_empty_basket_textSize">15sp</dimen>
+
+
+    <!--Request Screen-->
+    <dimen name="tv_not_finding_your_favorite_textSize">15sp</dimen>
+    <dimen name="tv_type_in_product_textSize">12sp</dimen>
+    <dimen name="etProductTag_textSize">14sp</dimen>
+
+    <dimen name="etProductTag_padding">8dp</dimen>
+    <dimen name="etProductTag_padding_top">12dp</dimen>
+    <dimen name="btn_send_request_padding">12dp</dimen>
+    <dimen name="etProductTag_margin_right">10dp</dimen>
+    <dimen name="scrollView_tags_margin">10dp</dimen>
+    <dimen name="text_margin">10dp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="banner_height">115dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_7">7dp</dimen>
+    <dimen name="dp_9">9dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_14">14dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_13">13dp</dimen>
+    <dimen name="dp_40">40dp</dimen>
+    <dimen name="dp_200">200dp</dimen>
+    <dimen name="dp_230">230dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="dp_56">56dp</dimen>
+    <dimen name="dp_11">11dp</dimen>
+    <dimen name="dp_25">25dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_64">64dp</dimen>
+    <dimen name="dp_164">164dp</dimen>
+    <dimen name="dp_108">108dp</dimen>
+    <dimen name="dp_84">84dp</dimen>
+    <dimen name="dp_70">70dp</dimen>
+    <dimen name="dp_18">18dp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+    <dimen name="dp_42">42dp</dimen>
+    <dimen name="dp_44">44dp</dimen>
+    <dimen name="dp_54">54dp</dimen>
+    <dimen name="dp_140">140dp</dimen>
+    <dimen name="dp_148">148dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_17">17dp</dimen>
+    <dimen name="dp_92">92dp</dimen>
+    <dimen name="dp_76">76dp</dimen>
+    <dimen name="dp_39">39dp</dimen>
+    <dimen name="dp_250">250dp</dimen>
+    <dimen name="dp_28">28dp</dimen>
+    <dimen name="dp_80">80dp</dimen>
+    <dimen name="dp_124">124dp</dimen>
+    <dimen name="dp_n_12">-12dp</dimen>
+
+
+    <dimen name="elevation">2dp</dimen>
+
+    <dimen name="spacing_mini">2dp</dimen>
+    <dimen name="spacing_half">4dp</dimen>
+    <dimen name="spacing">8dp</dimen>
+    <dimen name="spacing_and_half">12dp</dimen>
+    <dimen name="spacing_double">16dp</dimen>
+    <dimen name="spacing_triple">24dp</dimen>
+    <dimen name="spacing_wide">32dp</dimen>
+    <dimen name="spacing_wide_extra">48dp</dimen>
+
+    <dimen name="text_size_h3">20dp</dimen>
+    <dimen name="text_size_body2">16dp</dimen>
+    <dimen name="text_size_body3">14dp</dimen>
+    <dimen name="text_size_caption2">11dp</dimen>
+    <dimen name="text_size_subtitle3">12dp</dimen>
+    <dimen name="dp_22">22dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="avatar_large">72dp</dimen>
+    <dimen name="indicator_size">8dp</dimen>
+    <dimen name="message_card_radius">8dp</dimen>
+    <dimen name="dp_172">172dp</dimen>
+
+</resources>
